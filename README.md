@@ -1,21 +1,23 @@
 <h1 align="center">Abduvoriy</h1>
 <p align="center">Computer Science student · C# · Unity · Python</p>
 
-I build small systems I can explain. Right now that means a tactical FPS in Unity, and the habits around it: version control, documentation, and a public record that matches the work.
+I build small systems I can explain. Right now that means a tactical FPS in Unity, and a public repository that matches the project on disk.
 
 ## Focus
 
 - **Game systems.** Player control, weapons, AI states, and round flow.
 - **Software fundamentals.** Algorithms, mathematics, and clear program structure.
-- **Public work.** If it is not in the repository, it is not finished for anyone else.
+- **Public work.** The repository should contain the code the README describes.
 
 ## Selected work
 
-### [BREACH](https://github.com/abduvoriy-cloud/BREACH-FPS)
+### [BREACH](https://github.com/abduvoriy-cloud/BREACH)
 
-A tactical competitive FPS in **Unity 6** and **C#**.
+A tactical FPS prototype in **Unity 6** and **C#**.
 
-The local prototype covers first-person movement, weapons and reload, a gameplay HUD, NavMesh bots, and offline attacker-versus-defender rounds. The GitHub repository currently holds the documentation, the Unity `.gitignore`, and the MIT license. The source release is the next step, and the project README says so on purpose.
+The public project includes first-person movement, a hitscan rifle, a crosshair HUD, NavMesh bots, and offline attacker-versus-defender rounds on Dust Sector. Art, audio, and the rifle view model are placeholders. Multiplayer and bomb planting are not in the prototype.
+
+Open `Assets/STRIKE240/Scenes/DustSector.unity` in Unity `6000.6.7f1`.
 
 ## Stack
 
